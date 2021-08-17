@@ -1,0 +1,141 @@
+body{
+	width: 70%;
+	max-width: 800px;
+	background:url(unha1.jpg) center;
+	margin: auto;
+	font-family: sans-serif;
+	line-height: 1.5;
+}
+main{
+	background: black;
+	margin: top:50px;
+	background:#564f5528;
+	padding: 27px;
+}
+form {
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 15px;
+    background-color: #cc00594d;
+    max-width: 500px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: #ff669eb0;
+    text-shadow: 5px 5px 5px black;
+}
+
+input, textarea {
+    width: 200px;
+    padding: 10px;
+    color: black;
+    margin-left: 20px;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+input:hover, textarea:hover, input:focus, textarea:focus {
+    border-color: #000066;
+    box-shadow: 5px 0px 9px #FFFF00;
+    background-color: #66FFFF;
+    color: black;
+    font-weight: bold;
+}
+
+.enviar {
+    background-color: #801e68b3;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+    color: black;
+}
+
+textarea {
+    width: 400px;
+    height: 120px;
+    line-height: 20px;
+    max-width: 400px;
+}
+
+form label {
+    margin-left: 20px;
+    color: #FFFFFF;
+    font-weight: bold;
+}body{
+	width: 70%;
+	max-width: 800px;
+	background:url(unha1.jpg) center;
+	margin: auto;
+	font-family: sans-serif;
+	line-height: 1.5;
+}
+main{
+	background: black;
+	margin: top:50px;
+	background:#564f5528;
+	padding: 27px;
+}
+form {
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 15px;
+    background-color: #9f00cc75;
+    max-width: 500px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: #e91e63;
+    text-shadow: 5px 5px 5px black;
+}
+
+input, textarea {
+    width: 200px;
+    padding: 10px;
+    color: black;
+    margin-left: 20px;
+    margin-top: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+input:hover, textarea:hover, input:focus, textarea:focus {
+    border-color: #000066;
+    box-shadow: 5px 0px 9px #FFFF00;
+    background-color: #66FFFF;
+    color: black;
+    font-weight: bold;
+}
+
+.enviar {
+    background-color: #b366ff;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+    color: black;
+}
+
+textarea {
+    width: 400px;
+    height: 120px;
+    line-height: 20px;
+    max-width: 400px;
+}
+
+form label {
+    margin-left: 20px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
